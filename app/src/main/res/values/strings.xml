@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ButtonTest</string>
+    <string name="btn1">버튼 연습</string>
+    <string name="txt1">Android Programming</string>
+
+</resources>
