@@ -2,5 +2,10 @@
     <string name="app_name">ButtonTest</string>
     <string name="btn1">버튼 연습</string>
     <string name="txt1">Android Programming</string>
+    <string name="radio_female">여성</string>
+    <string name="radio_male">남성</string>
+    <string name="txt2">아래에 이름을 입력하세요 : </string>
+    <string name="edit_hint">여기에 채우세요</string>
+    <string name="btn2">확인</string>
 
 </resources>
